@@ -1,2 +1,2 @@
-# Project of 533V
-from what we have started
+# HW3 - 533V
+HW3- reinforcement learning ---> DQN and DDQN implementation
